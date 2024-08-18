@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.editor-input {
+  border: 1px solid #ccc;
+  height: 300px;
+  padding: 10px;
+}
+
+.editor-placeholder {
+  color: #aaa;
+}
